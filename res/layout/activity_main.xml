@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#000000">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android"
+        android:textColor="@string/texto_blanco"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center" />
+   
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DreamWeaver"
+        android:textColor="@string/texto_blanco"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center" />
+     
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Photoshop"
+        android:textColor="@string/texto_blanco"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center" />
+      
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(*)>"
+        android:textColor="@string/texto_blanco"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center" />
+
+</LinearLayout>
